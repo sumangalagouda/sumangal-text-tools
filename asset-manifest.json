@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sumangal-text-tools/static/css/main.f855e6bc.css",
+    "main.js": "/sumangal-text-tools/static/js/main.1195a89a.js",
+    "static/js/453.40200154.chunk.js": "/sumangal-text-tools/static/js/453.40200154.chunk.js",
+    "index.html": "/sumangal-text-tools/index.html",
+    "main.f855e6bc.css.map": "/sumangal-text-tools/static/css/main.f855e6bc.css.map",
+    "main.1195a89a.js.map": "/sumangal-text-tools/static/js/main.1195a89a.js.map",
+    "453.40200154.chunk.js.map": "/sumangal-text-tools/static/js/453.40200154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1195a89a.js"
+  ]
+}
